@@ -1,0 +1,360 @@
+{
+  *margin: 0px;
+  *padding: 0px;
+}
+.a
+{
+  width: 1024px;
+  height: 3517px;
+  background-color: #389CE9;
+  margin: 0px auto;
+}
+.head
+{
+  width: 1024px;
+  height: 135px;
+  background-color: #222933;
+  border: 5px solid #313842;
+}
+.a1
+{
+  width: 427px;
+  height: 73px;
+  position: absolute;
+  background-image: url(01.png);
+  background-size: 427px 73px;
+  margin-top: 28px;
+  margin-left: 27px;
+}
+.a2
+{
+  width: 105px;
+    height: 122px;
+    position: absolute;
+    background-color: #2A313B;
+    margin-top: 4px;
+  margin-left: 468px;
+}
+.a3
+{
+  width: 105px;
+    height: 122px;
+    position: absolute;
+    background-color: #222933;
+    margin-top: 4px;
+  margin-left: 573px;
+}
+.a4
+{
+  width: 105px;
+    height: 122px;
+    position: absolute;
+    background-color: #222933;
+    margin-top: 4px;
+  margin-left: 679px;
+}
+.a5
+{
+  width: 105px;
+    height: 122px;
+    position: absolute;
+    background-color: #222933;
+    margin-top: 4px;
+  margin-left: 783px;
+}
+.a6
+{
+  width: 105px;
+    height: 122px;
+    position: absolute;
+    background-color: #222933;
+    margin-top: 4px;
+  margin-left: 888px;
+}
+.b
+{
+  background-size: 95px 17px;
+  margin-top: 50px;
+  margin-left: 2px;
+}
+.b1
+{
+  background-size: 64px 17px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.b2
+{
+  background-size: 64px 17px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.b3
+{
+  background-size: 39px 17px;
+  margin-top: 50px;
+  margin-left: 33px;
+}
+.b4
+{
+  background-size: 23px 17px;
+  margin-top: 50px;
+  margin-left: 40px;
+}
+.c
+{
+  width: 1024px;
+  height: 255px;
+  background-color: #131A20;
+  border: 3px solid #262D35;
+  position: absolute;  
+}
+.c1
+{
+  width: 951px;
+  height: 50px;
+  position: absolute;
+  background-image: url(02.png);
+  background-size: 951px 50px;
+  margin-top: 25px;
+  margin-left: 36px;
+}
+.c2
+{
+  width: 254px;
+  height: 49px;
+  position: absolute;
+  background-image: url(03.png);
+  background-size: 254px 49px;
+  margin-top: 127px;
+  margin-left: 36px;
+}
+.d
+{
+  width: 1024px;
+  height: 684px;
+  background-color: #2E293F;
+  position: absolute;
+  margin-top: 255px;
+}
+.d1
+{
+  width: 127px;
+    height: 51px;
+  background-image: url(04.png);
+  background-size: 127px 51px;
+  margin-top: 65px;
+  margin-left: 36px;  
+  position: absolute;
+}
+.e
+{
+  width: 892px;
+  height: 472px;
+  margin-top: 400px;
+  margin-left: 64px;
+}
+.f
+{
+  width: 1024px;
+    height: 2458px;
+    background-color: #161D25;
+    position: absolute;
+    margin-top: 55px;
+}
+.f1
+{
+  width: 241px;
+  height: 51.039px;
+  background-image: url(05.png);
+  background-size: 241px 51.039px;
+  margin-top: 70px;
+  margin-left: 36px;  
+  position: absolute;
+}
+.f2
+{
+  width: 148px;
+  height: 51.039px;
+  background-image: url(06.png);
+  background-size: 148px 51.039px;
+  margin-top: 1372px;
+  margin-left: 36px;  
+  position: absolute;
+}
+.f3
+{
+  width: 189px;
+  height: 51.039px;
+  background-image: url(07.png);
+  background-size: 189px 51.039px;
+  margin-top: 1772px;
+  margin-left: 36px;  
+  position: absolute;
+}
+.j
+{
+  width: 543px;
+  height: 444px;
+  margin-top: 2000px;
+  margin-left: 36px;
+}
+.l1
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(6.png);
+  background-size: 221px 342px;
+  margin-top: 192px;
+  margin-left: 36px;  
+  position: absolute;
+}
+.l2
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(7.png);
+  background-size: 221px 342px;
+  margin-top: 192px;
+  margin-left: 277px;  
+  position: absolute;
+}
+.l3
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(5.png);
+  background-size: 221px 342px;
+  margin-top: 192px;
+  margin-left: 518px;  
+  position: absolute;
+}
+.l4
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(8.png);
+  background-size: 221px 342px;
+  margin-top: 192px;
+  margin-left: 744px;  
+  position: absolute;
+}
+.l5
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(5.png);
+  background-size: 221px 342px;
+  margin-top: 591px;
+  margin-left: 36px;  
+  position: absolute;
+}
+.l6
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(5.png);
+  background-size: 221px 342px;
+  margin-top: 591px;
+  margin-left: 277px;  
+  position: absolute;
+}
+.l7
+{width: 221px;
+  height: 342px;
+  background-image: url(9.png);
+  background-size: 221px 342px;
+  margin-top: 591px;
+  margin-left: 518px;  
+  position: absolute;
+}
+.l8
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(6.png);
+  background-size: 221px 342px;
+  margin-top: 591px;
+  margin-left: 744px;  
+  position: absolute;
+}
+.l9
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(6.png);
+  background-size: 221px 342px;
+  margin-top: 990px;
+  margin-left: 36px;  
+  position: absolute;
+}
+.l10
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(7.png);
+  background-size: 221px 342px;
+  margin-top: 990px;
+  margin-left: 277px;  
+  position: absolute;
+}
+.l11
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(5.png);
+  background-size: 221px 342px;
+  margin-top: 990px;
+  margin-left: 518px;  
+  position: absolute;
+}
+.l12
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(8.png);
+  background-size: 221px 342px;
+  margin-top: 990px;
+  margin-left: 744px;  
+  position: absolute;
+}
+.l13
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(10.png);
+  background-size: 221px 342px;
+  margin-top: 1422px;
+  margin-left: 36px;  
+  position: absolute;
+}
+.l14
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(11.png);
+  background-size: 221px 342px;
+  margin-top: 1422px;
+  margin-left: 277px;  
+  position: absolute;
+}
+.l15
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(12.png);
+  background-size: 221px 342px;
+  margin-top: 1422px;
+  margin-left: 518px;  
+  position: absolute;
+}
+.l16
+{
+  width: 221px;
+  height: 342px;
+  background-image: url(13.png);
+  background-size: 221px 342px;
+  margin-top: 1422px;
+  margin-left: 744px;  
+  position: absolute;
+}
